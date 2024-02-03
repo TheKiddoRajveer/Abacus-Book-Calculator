@@ -1,7 +1,7 @@
 # Abacus Book Calculator
 
 ## Introduction
-Welcome to TheKiddoRajveer's Abacus Book Calculator! This C++ program allows users to perform various mathematical operations, including calculating cubes, squares, addition, multiplication, and division.
+Welcome to TheKiddoRajveer's Abacus Book Calculator! An amazing CLI-based calculator designed for solving your Abacus Book rapidly and fastly.
 
 ## How it Works
 1. The program prompts the user to choose an operation from the menu.
